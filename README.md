@@ -1,4 +1,5 @@
 Thank you for checking out my repository, so my social media website is focused on military news education.
+Also check out the demo https://big0620ben.github.io/mamat-sosmed-website/
 
 There are 5 main pages as how it's required in the guide pdf assignment
 The first one is the Login page
